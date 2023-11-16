@@ -1,0 +1,21 @@
+Similiar Concepts:
+1. both companies talk about how a code review is a discussion and that everyone should
+    be respectful of one another. in that case, the companies both say to focus talk on the 
+    code and not the submitter.
+2. both companies also talk about how to not give major changes in the code, but to give a small
+    suggestion with helpful feedback for the submitter to think about and try to implement themself.
+
+Differences:
+1. yelp talks about time is of esscence, so to focus more on that than a really well thought out review
+    which is what microsoft suggests.
+2. yelp seems to get more to the point of where the code is wrong while microsoft emphasizes to watch the
+    tone of the response. yelp wants to get to the core of the problem while microsoft focuses on how 
+    to be respectful.
+
+good example: https://codereview.stackexchange.com/questions/287927/rock-paper-scissors-game
+    this is a good example because the reviewer breaks the problem into sections and explains thoroughly
+    what the submitter needs to do and understand in order to implement it correctly.
+
+bad example: https://codereview.stackexchange.com/questions/287926/iterate-internal-array-for-a-vba-class
+    although the reviwer does a good job trying to explain what the submitter needs to do, they are essentially
+    recoding the person's work, which is why I think it is a bad review.
